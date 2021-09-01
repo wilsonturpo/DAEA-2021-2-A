@@ -24,11 +24,39 @@ namespace Lab02_01
 
         private void mnuManUsuarios_Click(object sender, EventArgs e)
         {
-            manUsuario frm = new manUsuario();
-            frm.MdiParent = this;
-            frm.Show();
-            frm.Show();
+            manUsuario frmUsuario = new manUsuario();
+            frmUsuario.MdiParent = this;
+            frmUsuario.Show();
 
+        }
+
+        private void mnuManProductos_Click(object sender, EventArgs e)
+        {
+            manProducto frmProducto = new manProducto();
+            frmProducto.MdiParent = this;
+            frmProducto.Show();
+
+        }
+
+        private void mnuManCategorias_Click(object sender, EventArgs e)
+        {
+            manCategorias frmCategoria = new manCategorias();
+            frmCategoria.MdiParent = this;
+            frmCategoria.Show();
+        }
+
+        private void mnuManProveedores_Click(object sender, EventArgs e)
+        {
+            manProveedores frmProveedor = new manProveedores();
+            frmProveedor.MdiParent = this;
+            frmProveedor.Show();
+        }
+
+        private void mnuManClientes_Click(object sender, EventArgs e)
+        {
+            manClientes frmCliente = new manClientes();
+            frmCliente.MdiParent = this;
+            frmCliente.Show();
         }
     }
 }

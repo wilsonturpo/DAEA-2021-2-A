@@ -30,23 +30,23 @@ namespace Lab02_01
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtDni = new System.Windows.Forms.TextBox();
-            this.txtNombres = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtTelefono = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.txtDireccion = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.txtApellidos = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
+            this.dtpFechaNacimiento = new System.Windows.Forms.DateTimePicker();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.dtpFechaNacimiento = new System.Windows.Forms.DateTimePicker();
+            this.txtApellidos = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtDireccion = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txtTelefono = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtNombres = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtDni = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
-            this.btnAgergar = new System.Windows.Forms.Button();
+            this.btnAgregar = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
             this.dgvUsuarios = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
@@ -74,94 +74,12 @@ namespace Lab02_01
             this.panel1.Size = new System.Drawing.Size(668, 170);
             this.panel1.TabIndex = 0;
             // 
-            // label1
+            // dtpFechaNacimiento
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(51, 19);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(31, 17);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "DNI";
-            // 
-            // txtDni
-            // 
-            this.txtDni.Location = new System.Drawing.Point(88, 16);
-            this.txtDni.Name = "txtDni";
-            this.txtDni.Size = new System.Drawing.Size(161, 22);
-            this.txtDni.TabIndex = 1;
-            // 
-            // txtNombres
-            // 
-            this.txtNombres.Location = new System.Drawing.Point(88, 54);
-            this.txtNombres.Name = "txtNombres";
-            this.txtNombres.Size = new System.Drawing.Size(206, 22);
-            this.txtNombres.TabIndex = 3;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(24, 57);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(58, 17);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Nombre";
-            // 
-            // txtTelefono
-            // 
-            this.txtTelefono.Location = new System.Drawing.Point(88, 93);
-            this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(206, 22);
-            this.txtTelefono.TabIndex = 5;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(18, 96);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 17);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Teléfono";
-            // 
-            // txtDireccion
-            // 
-            this.txtDireccion.Location = new System.Drawing.Point(88, 130);
-            this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(562, 22);
-            this.txtDireccion.TabIndex = 7;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(15, 133);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(67, 17);
-            this.label4.TabIndex = 6;
-            this.label4.Text = "Dirección";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(325, 18);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(121, 17);
-            this.label5.TabIndex = 8;
-            this.label5.Text = "Fecha Nacimiento";
-            // 
-            // txtApellidos
-            // 
-            this.txtApellidos.Location = new System.Drawing.Point(452, 54);
-            this.txtApellidos.Name = "txtApellidos";
-            this.txtApellidos.Size = new System.Drawing.Size(198, 22);
-            this.txtApellidos.TabIndex = 11;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(381, 57);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 17);
-            this.label6.TabIndex = 10;
-            this.label6.Text = "Apellidos";
+            this.dtpFechaNacimiento.Location = new System.Drawing.Point(453, 19);
+            this.dtpFechaNacimiento.Name = "dtpFechaNacimiento";
+            this.dtpFechaNacimiento.Size = new System.Drawing.Size(197, 22);
+            this.dtpFechaNacimiento.TabIndex = 14;
             // 
             // txtEmail
             // 
@@ -179,12 +97,94 @@ namespace Lab02_01
             this.label7.TabIndex = 12;
             this.label7.Text = "Email";
             // 
-            // dtpFechaNacimiento
+            // txtApellidos
             // 
-            this.dtpFechaNacimiento.Location = new System.Drawing.Point(453, 19);
-            this.dtpFechaNacimiento.Name = "dtpFechaNacimiento";
-            this.dtpFechaNacimiento.Size = new System.Drawing.Size(197, 22);
-            this.dtpFechaNacimiento.TabIndex = 14;
+            this.txtApellidos.Location = new System.Drawing.Point(452, 54);
+            this.txtApellidos.Name = "txtApellidos";
+            this.txtApellidos.Size = new System.Drawing.Size(198, 22);
+            this.txtApellidos.TabIndex = 11;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(381, 57);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(65, 17);
+            this.label6.TabIndex = 10;
+            this.label6.Text = "Apellidos";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(325, 18);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(121, 17);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "Fecha Nacimiento";
+            // 
+            // txtDireccion
+            // 
+            this.txtDireccion.Location = new System.Drawing.Point(88, 130);
+            this.txtDireccion.Name = "txtDireccion";
+            this.txtDireccion.Size = new System.Drawing.Size(562, 22);
+            this.txtDireccion.TabIndex = 7;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(15, 133);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(67, 17);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "Dirección";
+            // 
+            // txtTelefono
+            // 
+            this.txtTelefono.Location = new System.Drawing.Point(88, 93);
+            this.txtTelefono.Name = "txtTelefono";
+            this.txtTelefono.Size = new System.Drawing.Size(206, 22);
+            this.txtTelefono.TabIndex = 5;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(18, 96);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(64, 17);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Teléfono";
+            // 
+            // txtNombres
+            // 
+            this.txtNombres.Location = new System.Drawing.Point(88, 54);
+            this.txtNombres.Name = "txtNombres";
+            this.txtNombres.Size = new System.Drawing.Size(206, 22);
+            this.txtNombres.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(24, 57);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(58, 17);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Nombre";
+            // 
+            // txtDni
+            // 
+            this.txtDni.Location = new System.Drawing.Point(88, 16);
+            this.txtDni.Name = "txtDni";
+            this.txtDni.Size = new System.Drawing.Size(161, 22);
+            this.txtDni.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(51, 19);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(31, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "DNI";
             // 
             // btnBuscar
             // 
@@ -204,14 +204,14 @@ namespace Lab02_01
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
             // 
-            // btnAgergar
+            // btnAgregar
             // 
-            this.btnAgergar.Location = new System.Drawing.Point(219, 188);
-            this.btnAgergar.Name = "btnAgergar";
-            this.btnAgergar.Size = new System.Drawing.Size(111, 34);
-            this.btnAgergar.TabIndex = 4;
-            this.btnAgergar.Text = "Agregar";
-            this.btnAgergar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Location = new System.Drawing.Point(219, 188);
+            this.btnAgregar.Name = "btnAgregar";
+            this.btnAgregar.Size = new System.Drawing.Size(111, 34);
+            this.btnAgregar.TabIndex = 4;
+            this.btnAgregar.Text = "Agregar";
+            this.btnAgregar.UseVisualStyleBackColor = true;
             // 
             // btnModificar
             // 
@@ -238,7 +238,7 @@ namespace Lab02_01
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(693, 450);
             this.Controls.Add(this.dgvUsuarios);
-            this.Controls.Add(this.btnAgergar);
+            this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.btnModificar);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnBuscar);
@@ -271,7 +271,7 @@ namespace Lab02_01
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnEliminar;
-        private System.Windows.Forms.Button btnAgergar;
+        private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Button btnModificar;
         private System.Windows.Forms.DataGridView dgvUsuarios;
     }
