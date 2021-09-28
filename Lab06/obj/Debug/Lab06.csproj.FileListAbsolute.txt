@@ -1,0 +1,10 @@
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\bin\Debug\Lab06.exe
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\bin\Debug\Lab06.pdb
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.manPersonas.resources
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.exe
+C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab06\obj\Debug\Lab06.pdb
