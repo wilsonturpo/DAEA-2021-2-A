@@ -1,6 +1,0 @@
-C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab07\Datos\bin\Debug\Datos.dll
-C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab07\Datos\bin\Debug\Datos.pdb
-C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
-C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.dll
-C:\Users\Wilson\Documents\TECSUP\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\c01\DAEA-2021-2-A\Lab07\Datos\obj\Debug\Datos.pdb
