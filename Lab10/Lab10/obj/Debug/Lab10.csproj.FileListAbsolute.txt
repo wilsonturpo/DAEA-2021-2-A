@@ -1,0 +1,7 @@
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\Wilson\source\repos\Laboratorios\Lab10\Lab10\obj\Debug\Lab10.pdb
