@@ -1,0 +1,12 @@
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\Lab11.exe
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\obj\Debug\Lab11.csproj.CopyComplete
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\obj\Debug\Lab11.exe
+C:\Users\Wilson\source\repos\Laboratorios\Lab11\obj\Debug\Lab11.pdb
